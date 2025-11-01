@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: wallos
+name: Wallos
+tagline: Open-Source Personal Subscription Tracker 
+icon: https://github.com/ellite/Wallos/blob/89a1fee77b991f620ae8f6a5a48a2961ec7d5a3f/images/wallossolidwhite.png
+category: Development
+version: "1.0.0"
+port: 4000
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Miguel Ribeiro 
+website: https://github.com/ellite/Wallos
+submitter: Matias de Andrea
+submission: https://github.com/ellite/Wallos
+repo: https://github.com/ellite/Wallos
+support: https://github.com/ellite/Wallos/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

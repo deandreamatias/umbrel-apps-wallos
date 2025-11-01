@@ -3,14 +3,11 @@ id: deandreamatias-wallos
 name: Wallos
 tagline: Open-Source Personal Subscription Tracker 
 icon: https://github.com/ellite/Wallos/blob/89a1fee77b991f620ae8f6a5a48a2961ec7d5a3f/images/wallossolidwhite.png
-category: Development
+category: finance
 version: "1.0.0"
-port: 4000
+port: 8282
 description: >-
-  Add your app's description here.
-
-
-  You can also add newlines!
+  Wallos is a powerful, open-source, and self-hostable web application designed to empower you in managing your finances with ease. Say goodbye to complicated spreadsheets and expensive financial software - Wallos simplifies the process of tracking expenses and helps you gain better control over your financial life.
 
 developer: Miguel Ribeiro 
 website: https://github.com/ellite/Wallos
@@ -19,11 +16,11 @@ submission: https://github.com/ellite/Wallos
 repo: https://github.com/ellite/Wallos
 support: https://github.com/ellite/Wallos/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://github.com/ellite/Wallos/blob/89a1fee77b991f620ae8f6a5a48a2961ec7d5a3f/screenshots/wallos-subscriptions-light.png
+  - https://github.com/ellite/Wallos/blob/89a1fee77b991f620ae8f6a5a48a2961ec7d5a3f/screenshots/wallos-stats.png
+  - https://github.com/ellite/Wallos/blob/89a1fee77b991f620ae8f6a5a48a2961ec7d5a3f/screenshots/wallos-form.png
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Initial release
 dependencies: []
 path: ""
 defaultUsername: ""
